@@ -28,4 +28,34 @@ File f =new File("D:\\Song\\TESTNG WORKSPACE\\DataDrivenFrameworkPractice\\Excel
 //		Row row = s.getRow(i);
 //		for (int j = 0; j < row.getPhysicalNumberOfCells(); j++) {
 //			Cell cell = row.getCell(j);
+	int physicalNumberOfRows = s.getPhysicalNumberOfRows();
+//	System.out.println("Row count" +physicalNumberOfRows);
+//	Row row1 = s.getRow(2);
+//	int physicalNumberOfCells = row1.getPhysicalNumberOfCells();
+//	System.out.println("cell count" +physicalNumberOfCells);
+//	System.out.println("============================");
+//	for (int i = 0; i < s.getPhysicalNumberOfRows(); i++) {
+//		Row row = s.getRow(i);
+//		for (int j = 0; j < row.getPhysicalNumberOfCells(); j++) {
+//			Cell cell = row.getCell(j);
+	int physicalNumberOfRows = s.getPhysicalNumberOfRows();
+//	System.out.println("Row count" +physicalNumberOfRows);
+//	Row row1 = s.getRow(2);
+//	int physicalNumberOfCells = row1.getPhysicalNumberOfCells();
+//	System.out.println("cell count" +physicalNumberOfCells);
+//	System.out.println("============================");
+//	for (int i = 0; i < s.getPhysicalNumberOfRows(); i++) {
+//		Row row = s.getRow(i);
+//		for (int j = 0; j < row.getPhysicalNumberOfCells(); j++) {
+//			Cell cell = row.getCell(j);
+	int physicalNumberOfRows = s.getPhysicalNumberOfRows();
+//	System.out.println("Row count" +physicalNumberOfRows);
+//	Row row1 = s.getRow(2);
+//	int physicalNumberOfCells = row1.getPhysicalNumberOfCells();
+//	System.out.println("cell count" +physicalNumberOfCells);
+//	System.out.println("============================");
+//	for (int i = 0; i < s.getPhysicalNumberOfRows(); i++) {
+//		Row row = s.getRow(i);
+//		for (int j = 0; j < row.getPhysicalNumberOfCells(); j++) {
+//			Cell cell = row.getCell(j);
 	
